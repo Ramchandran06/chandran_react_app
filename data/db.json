@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My first post",
+      "datetime": "july 01, 2024  11:20:40 AM",
+      "body": " quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "id": "2",
+      "title": "My second post",
+      "datetime": "july 01, 2024  11:20:40 AM",
+      "body": "vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "id": "3",
+      "title": "My third post",
+      "datetime": "july 01, 2024  11:20:40 AM",
+      "body": " vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    },
+    {
+      "id": "4",
+      "title": "My ",
+      "datetime": "March 06,2025 3:40:18 PM",
+      "body": " commodi nesciunt "
+    }
+  ]
+}

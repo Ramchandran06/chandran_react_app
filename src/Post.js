@@ -1,8 +1,7 @@
-import React from 'react'
-import { useParams } from 'react-router-dom'
-import { Link } from 'react-router-dom';
+import React from "react";
+import { Link } from "react-router-dom";
 
-const Post = ({post}) => {
+const Post = ({ post }) => {
   return (
     <article className="post">
       <Link to={`post/${post.id}`}>
@@ -14,6 +13,6 @@ const Post = ({post}) => {
       </p>
     </article>
   );
-}
+};
 
-export default Post
+export default Post;
